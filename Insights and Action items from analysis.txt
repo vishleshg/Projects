@@ -1,0 +1,33 @@
+Summary of Insights and Action items from analysis:
+
+Time range of orders placed in given in this study is from September 4th 2016 to October 17th 2018.
+Orders have come from 5812 cities spread across 27 states. But customers have registered from 8011 cities.
+More analysis is required to understand the reasons behind this gap and devise targeted marketing campaigns or initiatives to convert registered customers into paying customers.
+The company's brand reach in Brazil has experienced remarkable growth since its inception in 2016, which is evident in the substantial increase in order count over the subsequent two years.
+September and October has seen very less orders and August has seen the most orders.. Orders from other months are somewhat near to August. September and October have distanced themselves with other months.
+Afternoons have seen most orders in the given data, Mornings and Night have seen similar number of orders, and Dawn has seen least number of orders, distancing itself from others.
+SP has highest orders in all months across all states, where as RR has seen least number of orders across all months.
+MG, RJ, SP have contributed around 65% to 68% in number of orders across all months against all states.
+SP alone has 41.9% customers in Brazil, much ahead of all states. RJ & MG are next best states contributing 12.8% and 11.7% respectively.
+SP, RJ, MG have 66.6% of customers. And average customers registered in Brazil is 3683.
+January has the highest increase in the cost of orders, with a significant margin of 705.1% compared to other months in the dataset.
+Overall, a gradual decrease in the month-on-month percentage increase in orders indicates a slowdown in growth rates.
+Further analysis and strategic adjustments to be made to sustain business performance. 
+SP is topping the charts with Total order value. RJ and MG are next best states in terms of total order value.
+Further analysis is required to understand the reasons behind the lower order prices and also to make new strategies to increase sales or improve customer engagement in the regions who have less than average total order value.
+Even though SP had highest Total order value, it has least Average order value compared to all states.
+Further analysis should be conducted on the SP state to explore the potential of introducing premium products. Given the already high footfall and a chance to increase average order values, this presents an opportunity to significantly boost revenues.
+RR had the lowest total freight value,it has highest average freight value, it implies that the individual orders that RR did have incurred higher transportation costs on average compared to the other entities. This suggests that RR's shipments may have been smaller or more specialized, resulting in higher freight costs per order.
+On an average, orders take 12.09 days to deliver and are 10.96 days later than the estimated delivery date. This means that the company is consistently underestimating the amount of time it takes to fulfil the orders.
+The company may be using outdated or inaccurate data to estimate delivery times. Maybe we have to do further more analysis on how we are estimating delivery times, this could help to give more accurate delivery estimation time.
+SP had least average freight value, probably because of being the highest in order value and count.
+AL, MA, SE, ES, BA states have the order delivery is really fast as compared to the estimated date of delivery. But it doesn't look good as it is still later than than the expected delivery date, Serious analysis to make on these delivery times to make sure order deliver within time.
+It is concerning to observe that the some states consistently exhibit the highest average delivery times. We have to analyse customer delivery feedback regarding experiences in these states. We should develop state-specific strategies based on the unique challenges faced by each state.
+Also, States are currently experiencing the best delivery times, it is essential to continuously strive for improvement. Regular feedback from customers have to be evaluated and take more actions from that feedback to make sure orders are delivered as early as possible.
+Credit card is the most commonly used payment type across all months and seasons, accounting for approximately 74% of all payments. This indicates a strong preference for credit card payments among customers.
+We can say that credit card usage remains consistent throughout the year, suggesting that customers rely on this payment method regardless of seasonal variations.
+In addition to credit card payments, UPI accounts 19.04% of all payments. This indicates a growing popularity and adoption of UPI as a preferred payment method among customers.
+The increasing usage of UPI reflects the shift towards digital payment solutions in the market.
+50% of orders were paid in a single installment, indicating that customers prefer to pay upfront for their purchases.
+80% of orders were paid in 5 installments, indicating that customers prefer to spread out the cost of their purchases over time.
+We can say that customers value the flexibility and convenience of spreading their payments over multiple installments. The data indicates a diversity of payment preferences among customers, with a significant proportion opting for both upfront payment and installment-based plans.
